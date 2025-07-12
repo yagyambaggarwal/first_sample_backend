@@ -1,0 +1,19 @@
+{
+  "name": "chaiaurbackend",
+  "version": "1.0.0",
+  "description": "a first app to deply",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "yagyam aggarwal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  }
+}
