@@ -15,6 +15,3 @@ app.get("/login", (req, res)=>{
 app.listen(process.env.PORT, ()=>{
     console.log(`The app is live at ${port}`);
 })
-
-
-
